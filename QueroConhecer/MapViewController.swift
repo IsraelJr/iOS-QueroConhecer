@@ -36,7 +36,8 @@ class MapViewController: UIViewController {
         
         for place in places {
             addToMap(place)
-        }        
+        }
+        
         showPlaces()
         
     }
